@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_doubt"
+        android:icon="@drawable/ic_question_answer_black_24dp"
+        android:title="Doubt"/>
+    <item
+        android:id="@+id/nav_topic"
+        android:icon="@drawable/ic_description_black_24dp"
+        android:title="Topics"/>
+
+    <item
+        android:id="@+id/nav_timetable"
+        android:icon="@drawable/ic_grid_on_black_24dp"
+        android:title="Time-Table"/>
+    <item
+        android:id="@+id/nav_profile"
+        android:icon="@drawable/ic_account_circle_black_24dp"
+        android:title="Profile"/>
+
+
+</menu>
